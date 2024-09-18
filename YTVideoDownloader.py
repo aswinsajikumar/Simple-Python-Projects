@@ -1,6 +1,6 @@
+import pytube
 import tkinter
 import customtkinter
-import pytube
 from pytube import YouTube
 
 def startDownload():
